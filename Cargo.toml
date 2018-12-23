@@ -1,0 +1,11 @@
+[package]
+name = "rustcv"
+version = "0.0.1"
+authors = ["Xiaozhe Yao <xiaozhe.yaoi@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+image = "*"
+collenchyma = "0.0.8"
+flame="*"
+rulinalg="*"
